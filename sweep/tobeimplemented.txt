@@ -1,0 +1,5 @@
+Multiple Picks / Combines ( Provided they're non overlapping )
+Cover temp houses
+Update score on picking
+
+Add if/elses for 4 players
